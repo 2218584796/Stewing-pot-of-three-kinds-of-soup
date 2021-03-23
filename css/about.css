@@ -1,0 +1,131 @@
+.banner_about img{
+	width: 100%;
+	height: 400px;
+}
+.abouttop_img{
+	background: url(../imgs/abtit_01.jpg) center no-repeat;
+	height: 54px;
+	margin-top: 30px;
+}
+
+.about_01{
+	width: 1000px;
+	margin:0 auto;
+}
+.abouttxt_01{
+	width: 600px;
+	margin-top: 20px;
+	float: left;
+	display: block;
+	height: 322px;
+}
+.text_01{
+	width: 525px;
+    height: 34px;
+    float: left;
+    line-height: 34px;
+    text-align: left;
+    font-size: 18px;
+    color: #d99553;
+    margin-top: 8px;
+    display: block;
+}
+.text_02{
+	width: 525px;
+    float: left;
+    height: 34px;
+    line-height: 34px;
+    text-align: right;
+    font-size: 18px;
+    color: #d99553;
+}
+
+.about_introduce{
+	display: block;
+	line-height: 30px;
+	font-size: 16px;
+}
+.about_introduce strong{
+	font-size: 18px;
+	color: #D99553;
+}
+.aboutimg_01{
+	width: 333px;
+	float: right;
+	display: block;
+	margin-top: 25px;
+}
+
+
+
+.corporate_top{
+	background: url(../imgs/abtit_02.jpg) center no-repeat;
+	height: 54px;
+	margin-top: 30px;
+}
+
+.wenhua_wrap{
+	width: 1000px;
+	margin: 0 auto;
+}
+.wenhua{
+	background: url(../imgs/about_bg.jpg) center no-repeat;
+	display: block;
+	width: 292px;
+	height: 212px;
+	float: left;
+	margin: 30px 15px;
+}
+.wenhua_top{
+	display: block;
+	width: 292px;
+    height: 24px;
+    margin-top: 21px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    line-height: 24px;
+}
+.wenhua_footer{
+	width: 292px;
+    height: 60px;
+    margin: 20px 0;
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    float: left;
+}
+
+
+.fazhan_top{
+	background: url(../imgs/abtit_03.jpg) center no-repeat;
+	height: 54px;
+}
+.fazhan_banner{
+	background: url(../imgs/licheng.jpg) center no-repeat;
+	width: 100%;
+	height: 600px;
+	margin-top: 10px;
+}
+.linian{
+	background: url(../imgs/abtit_04.jpg) center no-repeat;
+	width: 100%;
+	height: 351px;
+	margin-top: 40px;
+}
+.rongyu_top{
+	background: url(../imgs/abtit_05.jpg) center no-repeat;
+	height: 54px;
+	margin-top: 50px;
+}
+.rongyu_img{
+	width: 1000px;
+	margin: 0 auto;
+	
+}
+.rongyu_01{
+	margin: 30px 30px;
+}
+.rongyu_02{
+	margin: 30px 30px;
+}

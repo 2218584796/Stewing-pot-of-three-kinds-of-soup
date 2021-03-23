@@ -1,0 +1,71 @@
+.meishi-banner{
+	background: url(../imgs/banner_meishi.jpg) center no-repeat;
+	width: 100%;
+	height: 400px;
+}
+.meishi-banner2{
+	background: url(../imgs/mstit_01.jpg) center no-repeat;
+	width: 1000px;
+	height: 86px;
+	margin: 0 auto;
+}
+
+.ms-nav{
+	width: 1000px;
+	margin: 0 auto;
+}
+.ms-nav ul li{
+	float: left;
+	/*margin: 0 50px;*/
+}
+.ms-nav ul li a{
+	display: block;
+    text-decoration: none;
+    width: 140px;
+    height: 40px;
+    padding: 1px 0 6px 0;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+}
+.ms-nav ul li a:hover{
+	background: url(../imgs/tabs_li.jpg) center no-repeat;
+	color: #FFFFFF;
+}
+.menguo{
+	width: 1000px;
+	margin: 0 auto;
+}
+.menguo img{
+	width: 300px;
+}
+.menguo ul li{
+	float: left;
+	width: 300px;
+    height: 336px;
+    margin: 0 15px;
+}
+.menguo h3{
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+}
+
+.menguo-2{
+	width: 1000px;
+	margin: 0 auto;
+}
+.menguo-2 img{
+	width: 300px;
+}
+.menguo-2 ul li{
+	float: left;
+	margin: 0 15px;
+}
+.menguo-2 h3{
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	margin-bottom: 30px;
+}

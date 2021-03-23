@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+ul li a{
+	text-decoration: none;
+}
+ul li{
+	list-style: none;
+}
+.clear{
+	clear: both;
+}
+div{
+	display: block;
+}

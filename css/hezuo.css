@@ -1,0 +1,53 @@
+.jm-banner{
+	background: url(../imgs/banner_jiameng.jpg) center no-repeat;
+	width: 100%;
+	height: 400px;
+}
+.tiaojian-top{
+	background: url(../imgs/jmtit_01.jpg) center no-repeat;
+	width: 100%;
+	height: 54px;
+	padding-top: 50px;
+}
+.tiaojian{
+	width: 1000px;
+	margin: 0 auto;
+}
+.tiaojian ul li{
+	float: left;
+	width: 230px;
+    height: 230px;
+    float: left;
+    text-align: center;
+    margin: 20px 10px 0 10px;
+}
+.tiaojian ul li p{
+	width: 230px;
+    line-height: 30px;
+    height: 60px;
+    font-size: 16px;
+    color: #424244;
+    margin-top: 10px;
+    float: left;
+}
+.lirun-banner{
+	background: url(../imgs/jmtit_04.jpg) center no-repeat;
+	width: 100%;
+	height: 54px;
+	padding-top: 50px;
+}
+.biao{
+	width: 1000px;
+	margin: 0 auto;
+}
+.hz-top{
+	background: url(../imgs/jmtit_05.jpg) center no-repeat;
+	width: 100%;
+	height: 54px;
+}
+.tj-xq{
+	background: url(../imgs/捕获(tiaojian).PNG) center no-repeat;
+	width: 1000px;
+	height: 576px;
+	padding: 50px 0 30px 150px;
+}

@@ -1,0 +1,134 @@
+.news-banner{
+	background: url(../imgs/banner_news.jpg) center no-repeat;
+	width: 100%;
+	height: 400px;
+}
+.news-nav{
+	background: url(../imgs/news_tit.jpg) center no-repeat;
+	width: 203px;
+    height: 50px;
+}.news-wrap{
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.nav_fr{
+	width: 203px;
+    height: auto;
+    margin-left: 32px;
+    float: left;
+}
+.cate-li li{
+	float: left;
+    width: 203px;
+    height: 51px;
+    background: url(../imgs/cate_li.jpg) center no-repeat;
+}
+.cate-li li a{
+	display: block;
+    text-decoration: none;
+    width: 144px;
+    height: 47px;
+    padding: 1px 0 2px 0;
+    line-height: 47px;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+}
+.lianxi{
+	background: url(../imgs/contact_tit.jpg) center no-repeat;
+	width: 203px;
+	height: 50px;
+	float: left;
+}
+.dispatched{
+	background: url(../imgs/contact_con.jpg) center no-repeat;
+	width: 203px;
+    height: 127px;
+    float: left;
+}
+.news-top{
+	width: 70%;
+    height: auto;
+    float: right;
+}
+.newstop{
+	width: 740px;
+    height: 36px;
+    padding: 14px 0 0 45px;
+    margin-left: -65px;
+    line-height: 36px;
+    float: left;
+    background: url(../imgs/position.jpg) left no-repeat;
+  	
+}
+.new{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+.jiashaotxt,.time{
+	padding-top: 30px;
+}
+.jieshao_01 img{
+	width: 216px;
+	height: 162px;
+	padding-top: 30px;
+}
+.zi-01{
+	width: 400px;
+    height: 90px;
+    float: left;
+    line-height: 30px;
+    margin: 20px 0 0 36px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+    font-weight: normal;
+    
+}
+.jieshao_02 img{
+	width: 216px;
+	height: 162px;
+}
+.split-mark{
+	border-bottom: 1px dashed #e4af7b;
+	margin: 30px 0 30px 0;
+}
+.zi-02{
+	width: 400px;
+    height: 90px;
+    float: left;
+    line-height: 30px;
+    margin: 20px 0 0 36px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+    font-weight: normal;
+    text-indent: 2em;
+}
+.zi-03{
+	width: 400px;
+    height: 90px;
+    float: left;
+    line-height: 30px;
+    margin: 20px 0 0 36px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+    font-weight: normal;
+    text-indent: 2em;
+}
+.zi-04{
+	width: 400px;
+    height: 90px;
+    float: left;
+    line-height: 30px;
+    margin: 20px 0 0 36px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+    font-weight: normal;
+    text-indent: 2em;
+}
